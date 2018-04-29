@@ -1,2 +1,2 @@
 # Surfs-Up
-Data analysis project using SQLite
+Climate analysis project using SQLite
